@@ -1,6 +1,6 @@
 let contador = 0;
 
-document.getElementById("Botao").onclick = () => {
+document.getElementById("Botão").onclick = () => {
 contador++;
 window.location.href = "index.html";
 let toast = document.getElementById("toast")
